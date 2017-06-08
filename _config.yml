@@ -1,10 +1,10 @@
-layout_spectrum: 0.05911502434761439
-typography_spectrum: 0.5619135670505907
+layout_spectrum: 0.4500600740959001
+typography_spectrum: 0.33620954365026906
 color:
-  brandStrength: 0.7718969812398168
-  lightness: 0.5598282844865566
-  saturation: 0.5328431387087976
-  rhythmicContrast: 0.572253145316044
+  brandStrength: 0.621574727015035
+  lightness: 0.7272341376113346
+  saturation: 0.5532626591798029
+  rhythmicContrast: 0.28812931214274823
   brandColors:
     - '#000000'
     - '#404040'
@@ -46,7 +46,6 @@ content:
       description: >-
         Enjoy the videos and music you love, upload original content, and share
         it all with friends, family, and the world on YouTube.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
