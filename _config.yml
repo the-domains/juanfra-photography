@@ -19,38 +19,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: JuanFra Photography
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: article
-    html: >-
-      <article><h1>JuanFra Photography</h1><img
-      src="https://juanfraphotography.files.wordpress.com/2017/03/cropped-jfphoto_logosymbol_hres.png?w=200"></article>
-    src: >-
-      https://juanfraphotography.files.wordpress.com/2017/03/cropped-jfphoto_logosymbol_hres.png?w=200
-    metadata:
-      author:
-        - name: JuanFra Photography
-          url: 'https://juanfraphotography.wordpress.com/author/juanfraphotography/'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://juanfraphotography.wordpress.com'
-        name: JuanFra Photography
-        favicon: >-
-          https://juanfraphotography.files.wordpress.com/2017/03/cropped-jfphoto_logosymbol_hres.png?w=192
-        domain: juanfraphotography.wordpress.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://juanfraphotography.wordpress.com'
-      title: JuanFra Photography
-      datePublished: null
-    title: JuanFra Photography
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 url: 'https://juanfraphotography.com'
 purpose: []
 github: true
