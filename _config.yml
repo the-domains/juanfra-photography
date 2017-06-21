@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: JuanFra Photography
+name: ' '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -57,7 +57,10 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 url: 'https://juanfraphotography.com'
-purpose: []
+purpose:
+  - type: internal
+    label: Portafolio
+    item: 272fbd21-6779-417c-a41f-5db41bb2774f
 github: true
 author:
   name: Copyright 2017 JuanFra Photography - Powered by Mobywise
