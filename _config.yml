@@ -29,6 +29,9 @@ navigation:
   - name: Portafolio
     id: 272fbd21-6779-417c-a41f-5db41bb2774f
     type: content
+  - name: Blog
+    id: 314f3c4a-d6db-44ef-a1bf-6f7ea9176ad2
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
