@@ -1,9 +1,10 @@
-typography_spectrum: 0.14891071570677555
+layout_spectrum: 0.36005359017972527
+typography_spectrum: 0.48638056286647546
 color:
-  brandStrength: 0.6436497512707801
-  lightness: 0.4355011065589209
-  saturation: 0.624471151098277
-  rhythmicContrast: 0.2339459632013436
+  brandStrength: 0.10370224302007568
+  lightness: 0.7459535236070209
+  saturation: 0.6806186666248348
+  rhythmicContrast: 0.7853515552224979
   brandColors:
     - '#000000'
     - '#404040'
@@ -11,7 +12,6 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 github: true
-layout_spectrum: 0.5905562938380949
 author:
   name: Copyright 2017 JuanFra Photography - Powered by Mobywise
   email: info@mobywise.com
