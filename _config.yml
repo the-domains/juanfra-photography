@@ -57,10 +57,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 url: 'https://juanfraphotography.com'
-purpose:
-  - type: internal
-    label: Blog
-    item: 314f3c4a-d6db-44ef-a1bf-6f7ea9176ad2
+purpose: []
 github: true
 author:
   name: Copyright 2017 JuanFra Photography - Powered by Mobywise
