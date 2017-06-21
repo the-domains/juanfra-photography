@@ -61,6 +61,9 @@ purpose:
   - type: internal
     label: Portafolio
     item: 272fbd21-6779-417c-a41f-5db41bb2774f
+  - type: internal
+    label: Blog
+    item: 314f3c4a-d6db-44ef-a1bf-6f7ea9176ad2
 github: true
 author:
   name: Copyright 2017 JuanFra Photography - Powered by Mobywise
